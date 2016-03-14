@@ -14,7 +14,7 @@ $ npm install --save twitter-rate-limit
 
 ```js
 
-var Twitter = require('twitter);
+var Twitter = require('twitter');
 var twitter = new Twitter({
   consumer_key: '',
   consumer_secret: '',
