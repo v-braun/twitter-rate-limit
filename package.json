@@ -7,7 +7,7 @@
   "author": {
     "name": "Viktor Braun (v_b)",
     "email": "v-braun@live.de",
-    "url": "dev-things.net"
+    "url": "www.dev-things.net"
   },
   "engines": {
     "node": ">=0.10.0"
@@ -20,7 +20,9 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "twitter",
+    "rate",
+    "limit"
   ],
   "dependencies": {},
   "devDependencies": {
