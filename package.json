@@ -1,0 +1,29 @@
+{
+  "name": "twitter-rate-limit",
+  "version": "1.0.0",
+  "description": "Extends the twitter client with the respect of rate limits",
+  "license": "MIT",
+  "repository": "v-braun/twitter-rate-limit",
+  "author": {
+    "name": "Viktor Braun (v_b)",
+    "email": "v-braun@live.de",
+    "url": "dev-things.net"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "dev": "mocha -w"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
